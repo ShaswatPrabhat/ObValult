@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "74150880d392db2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab1495d9a1c09e25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tech/Back End/Uber SSO/Uber Single Sign on Tech Blog.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f24797e308651a0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f55c90b96892c8cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c29576b931acf9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d87f1f5b94c5b56",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4790444980a3141e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf659915b0f8aa3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bf342f524ae139f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tech/Back End/Uber SSO/Uber Single Sign on Tech Blog.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ab1495d9a1c09e25",
+  "lastOpenFiles": [
+    "Tech/Back End/Uber SSO/Uber Single Sign on Tech Blog.md",
+    "Tech/Back End/Uber SSO/Pasted image 20220607123824.png",
+    "Tech/Back End/Uber SSO/Pasted image 20220607124816.png",
+    "Tech/Back End/Uber SSO/Pasted image 20220607162627.png",
+    "Tech/Back End/Uber SSO/Pasted image 20220607162755.png"
+  ]
+}
