@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech/Back End/Uber SSO/Uber Single Sign on Tech Blog.md",
+            "file": "Tech/Back End/Golang Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Back End/Uber SSO/Uber Single Sign on Tech Blog.md",
+                "file": "Tech/Back End/Golang Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +89,15 @@
   },
   "active": "ab1495d9a1c09e25",
   "lastOpenFiles": [
-    "Tech/Back End/Uber SSO/Uber Single Sign on Tech Blog.md",
-    "Tech/Back End/Uber SSO/Pasted image 20220607123824.png",
-    "Tech/Back End/Uber SSO/Pasted image 20220607124816.png",
-    "Tech/Back End/Uber SSO/Pasted image 20220607162627.png",
-    "Tech/Back End/Uber SSO/Pasted image 20220607162755.png"
+    "Tech/Back End/Go.md",
+    "Tech/Back End/Golang Notes.md",
+    "Tech/DS Algo/Tries.md",
+    "Tech/DS Algo/Nary tree.md",
+    "Tech/DS Algo/tree.md",
+    "Tech/DS Algo/boolean.md",
+    "Tech/DS Algo/strings.md",
+    "Tech/DS Algo/prefix tree.md",
+    "DS Algo.md",
+    "Tech/Back End/Uber SSO/Uber Single Sign on Tech Blog.md"
   ]
 }
