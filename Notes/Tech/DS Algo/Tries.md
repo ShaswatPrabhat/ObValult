@@ -9,4 +9,3 @@ Remember to initialize an empty root before Trie insertion
 It might be important to flag whether a proper word exists at a node of it it is just a prefix maybe using a [[boolean]] flag
 
 
-

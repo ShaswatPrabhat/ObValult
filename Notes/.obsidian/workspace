@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech/Back End/Golang Notes.md",
+            "file": "Tech/DS Algo/Tries.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/Back End/Golang Notes.md",
+                "file": "Tech/DS Algo/Tries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "ab1495d9a1c09e25",
   "lastOpenFiles": [
-    "Tech/Back End/Go.md",
     "Tech/Back End/Golang Notes.md",
+    "Tech/Back End/Go.md",
     "Tech/DS Algo/Tries.md",
     "Tech/DS Algo/Nary tree.md",
     "Tech/DS Algo/tree.md",
