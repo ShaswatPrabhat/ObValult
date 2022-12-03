@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ab1495d9a1c09e25",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tech/Front end/Architecture.md",
-            "mode": "source",
-            "source": false
+        "id": "a7452a6af18dd620",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1495d9a1c09e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tech/Front end/Architecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
